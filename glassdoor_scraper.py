@@ -50,7 +50,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
 
         
         #Going through each job in this page
-        job_buttons = driver.find_elements(By.CLASS_NAME, "jobLink")  #jl for Job Listing. These are the buttons we're going to click.
+        job_buttons = driver.find_elements(By.XPATH, "//li[@data-adv-type='GENERAL']")  #jl for Job Listing. These are the buttons we're going to click.
         for job_button in job_buttons:  
 
             print("Progress: {}".format("" + str(len(jobs)) + "/" + str(num_jobs)))
@@ -77,7 +77,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                 salary_estimate = -1 #You need to set a "not found value. It's important."
             
             try:
-                rating = driver.find_element(By.XPATH, './/span[@class="rating"]').text
+                rating = driver.find_element(By.XPATH, "//span[@class='css-1m5m32b e1tk4kwz2']").text
             except NoSuchElementException:
                 rating = -1 #You need to set a "not found value. It's important."
 
@@ -94,7 +94,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
             #clicking on this:
             #<div class="tab" data-tab-type="overview"><span>Company</span></div>
             try:
-                driver.find_element(By.XPATH, './/div[@class="tab" and @data-tab-type="overview"]').click()
+                # driver.find_element(By.XPATH, './/div[@class="tab" and @data-tab-type="overview"]').click()
 
                 try:
                     #<div class="infoEntity">
@@ -106,32 +106,32 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                     headquarters = -1
 
                 try:
-                    size = driver.find_element(By.XPATH, './/div[@class="infoEntity"]//label[text()="Size"]//following-sibling::*').text
+                    size = driver.find_element(By.CSS_SELECTOR, "div[class='d-flex flex-wrap'] div:nth-child(1) span:nth-child(2)").text
                 except NoSuchElementException:
                     size = -1
 
                 try:
-                    founded = driver.find_element(By.XPATH, './/div[@class="infoEntity"]//label[text()="Founded"]//following-sibling::*').text
+                    founded = driver.find_element(By.XPATH, "//span[normalize-space()='2014']").text
                 except NoSuchElementException:
                     founded = -1
 
                 try:
-                    type_of_ownership = driver.find_element(By.XPATH, './/div[@class="infoEntity"]//label[text()="Type"]//following-sibling::*').text
+                    type_of_ownership = driver.find_element(By.XPATH, "//span[normalize-space()='Company - Private']").text
                 except NoSuchElementException:
                     type_of_ownership = -1
 
                 try:
-                    industry = driver.find_element(By.XPATH, './/div[@class="infoEntity"]//label[text()="Industry"]//following-sibling::*').text
+                    industry = driver.find_element(By.XPATH, "//span[normalize-space()='Advertising & Public Relations']").text
                 except NoSuchElementException:
                     industry = -1
 
                 try:
-                    sector = driver.find_element(By.XPATH, './/div[@class="infoEntity"]//label[text()="Sector"]//following-sibling::*').text
+                    sector = driver.find_element(By.XPATH, "//span[normalize-space()='Media & Communication']").text
                 except NoSuchElementException:
                     sector = -1
 
                 try:
-                    revenue = driver.find_element(By.XPATH, './/div[@class="infoEntity"]//label[text()="Revenue"]//following-sibling::*').text
+                    revenue = driver.find_element(By.XPATH, "//span[normalize-space()='$25 to $100 million (USD)']").text
                 except NoSuchElementException:
                     revenue = -1
 
@@ -181,9 +181,10 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
             
         #Clicking on the "next page" button
         try:
-            driver.find_element(By.XPATH, './/li[@class="next"]//a').click()
+            driver.find_element(By.XPATH, "//button[@aria-label='Next']").click()
         except NoSuchElementException:
             print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs, len(jobs)))
             break
 
     return pd.DataFrame(jobs)  #This line converts the dictionary object into a pandas DataFrame.
+    
