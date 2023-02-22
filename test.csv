@@ -1,0 +1,2337 @@
+,Job Title,Salary Estimate,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,Hourly,upd_salary,Company text
+0,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+1,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+4,Data Scientist,$65.71 /hr (est.),-1.0,Biometric Health,"Jackson, MS",-1,Unknown,-1,-1,-1,-1,-1,-1,1,65.71,Biometric Heal
+5,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+6,Entry level Data Science Engineer-333338,"$62,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Marysville, MI",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,62500.0,"I28 Technologies
+"
+7,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+8,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+11,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+13,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+15,"Data Scientist, CV/NLP","$129,500 /yr (est.)",3.7,"Ancestry
+3.7",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,129500.0,"Ancestry
+"
+16,Data Scientist,"$101,043 /yr (est.)",4.2,"Harmonia Holdings Group, LLC
+4.2","McLean, VA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101043.0,"Harmonia Holdings Group, LLC
+"
+17,Quantitative Researcher,"$200,000 /yr (est.)",3.9,"Belvedere Trading
+3.9","New York, NY",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,200000.0,"Belvedere Trading
+"
+18,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+19,Data Scientist,"$91,000 /yr (est.)",3.8,"Premier Inc.
+3.8",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,91000.0,"Premier Inc.
+"
+20,"2023 Launchpad: Corporate Functions, FinTech & Data Science, and Market Makers","$88,925 /yr (est.)",4.0,"Bank of America
+4.0","Charlotte, NC",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88925.0,"Bank of America
+"
+21,Data Scientist,"$90,000 /yr (est.)",4.0,"Copart
+4.0","Dallas, TX",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,90000.0,"Copart
+"
+22,Data Scientist - All Levels,"$73,990 /yr (est.)",4.5,"Interclypse Inc
+4.5","Annapolis Junction, MD",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,73990.0,"Interclypse Inc
+"
+23,"Data and Evaluation Scientist, Health Equity","$71,210 /yr (est.)",3.7,"Nemours
+3.7","Jacksonville, FL",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,71210.0,"Nemours
+"
+24,Data Scientist,"$88,300 /yr (est.)",3.8,"Aptiv
+3.8","Troy, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88300.0,"Aptiv
+"
+25,Data Scientist,"$237,000 /yr (est.)",4.1,"InMarket
+4.1","Austin, TX",-1,201 to 500 Employees,-1,Company - Private,-1,Media & Communication,-1,-1,0,237000.0,"InMarket
+"
+26,Data Scientist,"$97,931 /yr (est.)",4.2,"Radiance Technologies Inc.
+4.2","Beavercreek, OH",-1,501 to 1000 Employees,-1,Company - Private,-1,-1,-1,-1,0,97931.0,"Radiance Technologies Inc.
+"
+27,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+28,Decision Scientist,"$101,835 /yr (est.)",4.9,"KUNGFU.AI
+4.9","Austin, TX",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,101835.0,"KUNGFU.AI
+"
+30,"Educator, Data Scientist","$105,000 /yr (est.)",4.4,"BrainStation
+4.4","New York, NY",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,105000.0,"BrainStation
+"
+31,Sr Data Analyst (SQL/PowerBI),$112.50 /hr (est.),4.6,"Braintrust
+4.6","San Francisco, CA",-1,Unknown,-1,Company - Private,-1,-1,-1,-1,1,112.5,"Braintrust
+"
+32,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+33,Data Scientist,"$108,236 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Arlington, VA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,108236.0,"Booz Allen Hamilton
+"
+34,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+35,Data Scientist (remote),"$120,000 /yr (est.)",3.8,"MultiPlan Inc.
+3.8",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,120000.0,"MultiPlan Inc.
+"
+36,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+37,Data Scientist,"$101,937 /yr (est.)",2.9,"CyberData Technologies
+2.9","Herndon, VA",-1,51 to 200 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101937.0,"CyberData Technologies
+"
+38,"Head of Monetization, M10 Data Science","$302,500 /yr (est.)",4.1,"Pinterest
+4.1",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,302500.0,"Pinterest
+"
+39,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+40,Jr Data Science Engineer - Python,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Honolulu, HI",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+41,Analyst - Junior Data Scientist,"$87,500 /yr (est.)",3.9,"YES Communities
+3.9","Greenwood Village, CO",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,87500.0,"YES Communities
+"
+42,Data Scientist,"$85,215 /yr (est.)",4.2,"IBM
+4.2","Monroe, LA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,85215.0,"IBM
+"
+43,Data Scientist and Visualization Developer,"$125,000 /yr (est.)",3.7,"Noodles & Company | Noodles & Company
+3.7","Broomfield, CO",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,125000.0,"Noodles & Company | Noodles & Company
+"
+44,Data Scientist – Boston MA,"$106,261 /yr (est.)",4.2,"Merck
+4.2","Boston, MA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,106261.0,"Merck
+"
+45,Jr. Data Scientist,"$86,021 /yr (est.)",-1.0,Tek Ninjas,"Dallas, TX",-1,Unknown,-1,-1,-1,-1,-1,-1,0,86021.0,Tek Ninj
+47,Data Scientist/Meteorologist,"$140,000 /yr (est.)",-1.0,Sceye,"Moriarty, NM",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,140000.0,Sce
+48,Data Scientist,$67.50 /hr (est.),3.5,"Largeton Inc
+3.5",Remote,-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,1,67.5,"Largeton Inc
+"
+50,IT Data Scientist 15,"$200,000 /yr (est.)",3.8,"State of Michigan
+3.8","Lansing, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,200000.0,"State of Michigan
+"
+51,Data Scientist,"$145,000 /yr (est.)",4.0,"LogRhythm
+4.0","Denver, CO",-1,501 to 1000 Employees,-1,Company - Private,-1,-1,-1,-1,0,145000.0,"LogRhythm
+"
+53,AI Residency Program (University Grad),"$102,004 /yr (est.)",4.1,"Meta
+4.1","New York, NY",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,102004.0,"Meta
+"
+55,Data Scientist / Research Software Engineer (6104U) - 46408,"$113,000 /yr (est.)",4.3,"University of California Berkeley
+4.3","Berkeley, CA",-1,51 to 200 Employees,-1,-1,-1,-1,-1,-1,0,113000.0,"University of California Berkeley
+"
+56,Atmospheric Data Scientist,"$83,250 /yr (est.)",4.2,"UC San Diego
+4.2","San Diego, CA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,83250.0,"UC San Diego
+"
+57,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+58,"Data Scientist, Marketing","$151,806 /yr (est.)",4.3,"KAYAK
+4.3","Cambridge, MA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,151806.0,"KAYAK
+"
+59,Senior Data Scientist,"$129,536 /yr (est.)",3.2,"AMC Health
+3.2","New York, NY",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,129536.0,"AMC Health
+"
+60,"Data Scientist, University Graduate (Global E-commerce Risk Control)- 2023 Start (MS)","$134,155 /yr (est.)",3.6,"TikTok
+3.6","Seattle, WA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,134155.0,"TikTok
+"
+62,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+63,Data Scientist,"$101,852 /yr (est.)",4.3,"Roche
+4.3","Indianapolis, IN",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,101852.0,"Roche
+"
+64,Data Scientist,"$106,856 /yr (est.)",2.0,"Northbeam
+2.0","Denver, CO",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,106856.0,"Northbeam
+"
+66,Asst Staff - Signal & Data Processing,"$54,241 /yr (est.)",4.3,"MIT Lincoln Laboratory
+4.3","Lexington, MA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,54241.0,"MIT Lincoln Laboratory
+"
+67,Embedded AI Processing Engineer,"$87,452 /yr (est.)",4.3,"MIT Lincoln Laboratory
+4.3","Lexington, MA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,87452.0,"MIT Lincoln Laboratory
+"
+68,Data Scientist,$70.00 /hr (est.),5.0,"Hireups
+5.0",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,70.0,"Hireups
+"
+69,Data Scientist - Role can be remote,"$106,661 /yr (est.)",4.3,"Mars
+4.3","Chicago, IL",-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,106661.0,"Mars
+"
+71,Scientist I - Neurophysiology Data Analysis,"$85,031 /yr (est.)",3.8,"Allen Institute
+3.8","Seattle, WA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,85031.0,"Allen Institute
+"
+72,Data Scientist,"$111,421 /yr (est.)",3.6,"bluebird bio
+3.6","Somerville, MA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,111421.0,"bluebird bio
+"
+73,Data Scientist,"$7,501 /mo (est.)",3.7,"City of Grand Junction, Colorado
+3.7","Grand Junction, CO",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,7501.0,"City of Grand Junction, Colorado
+"
+74,Data Analyst,"$67,848 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Los Angeles, CA",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,67848.0,"BEN Group, Inc
+"
+75,Principal Data Scientist,"$133,755 /yr (est.)",4.0,"Corteva Agriscience
+4.0","Des Moines, IA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,133755.0,"Corteva Agriscience
+"
+77,Data Scientist,"$123,250 /yr (est.)",3.8,"The New York Times
+3.8","New York, NY",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,123250.0,"The New York Times
+"
+78,Data Scientist,"$95,536 /yr (est.)",4.0,"Steelcase
+4.0","Grand Rapids, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,95536.0,"Steelcase
+"
+79,Jr. Data Scientist,"$78,285 /yr (est.)",3.1,"Primrose School Franchising Company
+3.1","Atlanta, GA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,78285.0,"Primrose School Franchising Company
+"
+80,Data Scientist,$65.71 /hr (est.),-1.0,Pennsylvania Enterprise Private Limited,"Jackson, MS",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,1,65.71,Pennsylvania Enterprise Private Limit
+81,Artificial Intelligence Researcher,"$90,627 /yr (est.)",4.3,"MIT Lincoln Laboratory
+4.3","Lexington, MA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,90627.0,"MIT Lincoln Laboratory
+"
+82,Data Scientist (Remote Option),"$85,000 /yr (est.)",4.4,"University of Michigan
+4.4","Ann Arbor, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,85000.0,"University of Michigan
+"
+83,Data Scientist,"$117,526 /yr (est.)",3.9,"HotSchedules
+3.9","Sofia, NM",-1,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,117526.0,"HotSchedules
+"
+84,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+85,Data Scientist,"$105,772 /yr (est.)",4.5,"Apixio
+4.5","San Diego, CA",-1,51 to 200 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,105772.0,"Apixio
+"
+86,Data Scientist,"$162,500 /yr (est.)",3.8,"Verizon
+3.8","New York, NY",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,162500.0,"Verizon
+"
+87,Forensic Scientist Data Review I (NDOT),"$55,548 /yr (est.)",3.8,"Abbott Laboratories
+3.8","Gretna, LA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,55548.0,"Abbott Laboratories
+"
+88,Data Scientist,"$109,952 /yr (est.)",4.5,"Coalition
+4.5","San Francisco, CA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,109952.0,"Coalition
+"
+89,Data Scientist,"$82,228 /yr (est.)",3.5,"Domino's Corporate
+3.5","Ann Arbor, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,82228.0,"Domino's Corporate
+"
+90,Innovation Lead - Data Science & Innovation,"$106,422 /yr (est.)",4.3,"Novo Nordisk
+4.3","Cambridge, MA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,106422.0,"Novo Nordisk
+"
+91,Data Scientist,"$135,093 /yr (est.)",-1.0,Snowrelic INC,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,135093.0,Snowrelic I
+92,Data Scientist,"$92,323 /yr (est.)",4.0,"Navigate360 Llc
+4.0","Richfield, OH",-1,51 to 200 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,92323.0,"Navigate360 Llc
+"
+93,Junior Data Scientist,"$88,462 /yr (est.)",3.3,"FocusKPI Inc.
+3.3","Boston, MA",-1,51 to 200 Employees,-1,Company - Private,Advertising & Public Relations,Media & Communication,-1,-1,0,88462.0,"FocusKPI Inc.
+"
+94,Data Scientist,"$93,320 /yr (est.)",4.0,"Advanced Regenerative Manufacturing Institute Inc
+4.0","Manchester, NH",-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,93320.0,"Advanced Regenerative Manufacturing Institute Inc
+"
+95,Junior Scientific Programmer/Data Scientist,"$83,988 /yr (est.)",4.2,"University of Minnesota
+4.2","Minneapolis, MN",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,83988.0,"University of Minnesota
+"
+96,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+97,Data Scientist II - Data Scientist - Analytics,"$132,662 /yr (est.)",3.6,"Lakeland Regional Health
+3.6",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,132662.0,"Lakeland Regional Health
+"
+98,11th Hour Staff Data Scientist,"$142,503 /yr (est.)",4.2,"The University of Chicago
+4.2","Chicago, IL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,142503.0,"The University of Chicago
+"
+99,Data Scientist,$70.00 /hr (est.),4.3,"Infinity Quest
+4.3",Remote,-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,1,70.0,"Infinity Quest
+"
+101,Data Scientist - Life Sciences,"$94,066 /yr (est.)",4.5,"Argonne National Laboratory
+4.5","Lemont, IL",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,94066.0,"Argonne National Laboratory
+"
+102,Data Scientist,"$95,755 /yr (est.)",3.4,"Inspire Brands
+3.4","Atlanta, GA",-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,95755.0,"Inspire Brands
+"
+103,2023 SETUP Technology Full Time Program – Data Scientist - New York,"$77,500 /yr (est.)",3.7,"BNY Mellon
+3.7","Jersey City, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,77500.0,"BNY Mellon
+"
+104,Data Scientist,"$81,809 /yr (est.)",4.0,"Grinnell College
+4.0","Grinnell, IA",-1,501 to 1000 Employees,-1,-1,-1,-1,-1,-1,0,81809.0,"Grinnell College
+"
+105,Data Scientist I,"$110,617 /yr (est.)",2.8,"Vibrant Emotional Health
+2.8","New York, NY",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,110617.0,"Vibrant Emotional Health
+"
+106,DATA SCIENTIST,"$170,757 /yr (est.)",4.1,"US Department of the Air Force - Agency Wide
+4.1","Fort Meade, MD",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,170757.0,"US Department of the Air Force - Agency Wide
+"
+107,Data Scientist,"$93,398 /yr (est.)",4.1,"US Centers for Medicare & Medicaid Services
+4.1","Wallops Island, VA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,93398.0,"US Centers for Medicare & Medicaid Services
+"
+108,Data Scientist,"$120,000 /yr (est.)",4.2,"Bayer
+4.2","Chesterfield, MO",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,120000.0,"Bayer
+"
+109,"Director, Data Scientist (GDSI) - Care Gap","$155,042 /yr (est.)",3.9,"Gilead Sciences
+3.9","Foster City, CA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,155042.0,"Gilead Sciences
+"
+110,Data Science - Data Science Management Program (DSMP),"$133,256 /yr (est.)",5.0,"Blackstone Group
+5.0","New York, NY",-1,Unknown,-1,-1,-1,-1,-1,-1,0,133256.0,"Blackstone Group
+"
+111,Data Scientist,"$103,856 /yr (est.)",3.6,"INFICON, Inc.
+3.6","East Syracuse, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,103856.0,"INFICON, Inc.
+"
+112,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+113,Data Scientist,"$94,470 /yr (est.)",4.1,"Flock Safety
+4.1","Atlanta, GA",-1,501 to 1000 Employees,-1,-1,-1,-1,-1,-1,0,94470.0,"Flock Safety
+"
+114,Data Scientist,"$98,995 /yr (est.)",4.4,"GTA (Global Technology Associates)
+4.4","Reston, VA",-1,Unknown,-1,Company - Private,-1,-1,-1,-1,0,98995.0,"GTA (Global Technology Associates)
+"
+116,Geospatial Data Scientist,"$155,000 /yr (est.)",-1.0,EpochGeo,"Washington, DC",-1,-1,-1,-1,-1,-1,-1,-1,0,155000.0,EpochG
+117,Open opportunity: biomedical data scientist!,"$135,000 /yr (est.)",5.0,"Data Tecnica
+5.0","Glen Echo, MD",-1,Unknown,-1,Company - Private,-1,-1,-1,-1,0,135000.0,"Data Tecnica
+"
+118,"Data Scientist or Statistician, Postdoc","$93,500 /yr (est.)",3.9,"UT Southwestern Medical Center
+3.9",Remote,-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,93500.0,"UT Southwestern Medical Center
+"
+119,Data Scientist / Quantitative Analyst,"$109,226 /yr (est.)",4.4,"Wolverine Trading
+4.4","Chicago, IL",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,109226.0,"Wolverine Trading
+"
+120,Jr. Data Scientist,"$98,000 /yr (est.)",4.8,"WhirlWind Technologies, LLC
+4.8",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,98000.0,"WhirlWind Technologies, LLC
+"
+121,Data Scientist III,$86.00 /hr (est.),4.5,"ComTec Information Systems
+4.5",Remote,-1,501 to 1000 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,1,86.0,"ComTec Information Systems
+"
+122,Data Scientist,"$142,693 /yr (est.)",5.0,"Vori
+5.0","Palo Alto, CA",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,142693.0,"Vori
+"
+123,Data Visualization Specialist,"$82,401 /yr (est.)",3.8,"BDO
+3.8","San Francisco, CA",-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,82401.0,"BDO
+"
+124,Head of Data Science,"$254,950 /yr (est.)",4.3,"Duolingo
+4.3","New York, NY",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,254950.0,"Duolingo
+"
+126,Data Scientist 2,"$93,064 /yr (est.)",3.4,"Dine Development Corporation
+3.4","Annapolis Junction, MD",-1,51 to 200 Employees,2014,Company - Private,-1,-1,-1,-1,0,93064.0,"Dine Development Corporation
+"
+127,Data Scientist,"$97,495 /yr (est.)",3.6,"Southern Glazer’s Wine and Spirits
+3.6","Dallas, TX",-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,97495.0,"Southern Glazer’s Wine and Spirits
+"
+128,Data Scientist,"$102,993 /yr (est.)",5.0,"Markesman Group
+5.0","Fort Meade, MD",-1,51 to 200 Employees,-1,-1,-1,-1,-1,-1,0,102993.0,"Markesman Group
+"
+129,Data Scientist,"$122,725 /yr (est.)",3.5,"OpenStore
+3.5","Miami, FL",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,122725.0,"OpenStore
+"
+130,Data Scientist,$50.00 /hr (est.),-1.0,Vision IT Solutions Inc,"Avenel, NJ",-1,Unknown,-1,-1,-1,-1,-1,-1,1,50.0,Vision IT Solutions I
+131,Jr Data Scientist,"$91,110 /yr (est.)",3.7,"Veracity Software
+3.7","Iselin, NJ",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,91110.0,"Veracity Software
+"
+132,Senior Data Scientist,"$115,980 /yr (est.)",4.6,"Crumbl Cookies
+4.6","Lindon, UT",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,115980.0,"Crumbl Cookies
+"
+133,Data Scientist,"$95,630 /yr (est.)",4.0,"Planet Technologies
+4.0","Washington, DC",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,95630.0,"Planet Technologies
+"
+134,"Data Scientist, Growth","$207,500 /yr (est.)",4.9,"Notion
+4.9","New York, NY",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,207500.0,"Notion
+"
+135,"Data Science Associate, Evaluation","$72,500 /yr (est.)",3.1,"Harlem Children's Zone
+3.1","New York, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,72500.0,"Harlem Children's Zone
+"
+136,Data Scientist,"$88,488 /yr (est.)",2.1,"American Association of Neurological Surgeons
+2.1","Rolling Meadows, IL",-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,88488.0,"American Association of Neurological Surgeons
+"
+137,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+138,Data Analyst - Remote Opportunity,"$65,000 /yr (est.)",4.2,"Foley Carrier Services
+4.2",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,65000.0,"Foley Carrier Services
+"
+139,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+140,Data Scientist (Medicaid),$65.71 /hr (est.),-1.0,Infrastaff,"Jackson, MS",-1,-1,-1,-1,-1,-1,-1,-1,1,65.71,Infrasta
+141,Mathematical Scientist,"$150,000 /yr (est.)",-1.0,Pit.AI Technologies Inc.,"San Jose, CA",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,150000.0,Pit.AI Technologies In
+142,Data Scientist,"$93,000 /yr (est.)",5.0,"Vetro Tech Inc
+5.0","Dallas, TX",-1,Unknown,-1,-1,-1,-1,-1,-1,0,93000.0,"Vetro Tech Inc
+"
+144,Data Scientist,"$105,000 /yr (est.)",3.1,"CVS Health
+3.1","New York, NY",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,105000.0,"CVS Health
+"
+145,Data Scientist,"$88,216 /yr (est.)",3.7,"DataSeers
+3.7","Alpharetta, GA",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,88216.0,"DataSeers
+"
+146,Biomedical Data Scientist,"$95,246 /yr (est.)",3.2,"Retia Medical
+3.2","White Plains, NY",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,95246.0,"Retia Medical
+"
+148,Data Scientist,"$80,000 /yr (est.)",1.0,"Procal Technologies
+1.0",Remote,-1,Unknown,-1,Company - Private,-1,-1,-1,-1,0,80000.0,"Procal Technologies
+"
+149,Senior Data Scientist,"$182,500 /yr (est.)",4.2,"HealthSherpa
+4.2",Remote,-1,51 to 200 Employees,2014,Company - Private,-1,-1,-1,-1,0,182500.0,"HealthSherpa
+"
+152,Data Scientist,$52.50 /hr (est.),4.3,"Narvee Technologies pvt ltd
+4.3",Remote,-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,1,52.5,"Narvee Technologies pvt ltd
+"
+154,Data Scientist - Analytic Consultant,"$92,961 /yr (est.)",3.7,"PREMIER Bankcard LLC
+3.7","Sioux Falls, SD",-1,Unknown,-1,Company - Private,-1,-1,-1,-1,0,92961.0,"PREMIER Bankcard LLC
+"
+155,Research Statistician,"$93,506 /yr (est.)",3.8,"Corning
+3.8","Corning, NY",-1,Unknown,-1,-1,-1,-1,-1,-1,0,93506.0,"Corning
+"
+156,Jr Data Scientist / Programmer Analyst,"$100,000 /yr (est.)",3.2,"The Brite Group
+3.2",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,100000.0,"The Brite Group
+"
+157,Data Scientist - Boston,"$166,100 /yr (est.)",4.4,"Vectra
+4.4","Boston, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,166100.0,"Vectra
+"
+158,VP Data Technology,"$224,450 /yr (est.)",3.6,"Mitsubishi HC Capital America Inc
+3.6","Norwalk, CT",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,224450.0,"Mitsubishi HC Capital America Inc
+"
+160,Data Scientist,"$110,334 /yr (est.)",4.2,"Northeastern University
+4.2","Boston, MA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,110334.0,"Northeastern University
+"
+163,Data Scientist,$62.50 /hr (est.),-1.0,Tech brothers info services,"Elk Grove, CA",-1,Unknown,-1,-1,-1,-1,-1,-1,1,62.5,Tech brothers info servic
+164,Data Scientist,"$140,000 /yr (est.)",4.2,"Shipwell
+4.2","Austin, TX",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,140000.0,"Shipwell
+"
+166,Data Scientist I,"$113,021 /yr (est.)",3.2,"MAPFRE
+3.2","Webster, MA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,113021.0,"MAPFRE
+"
+168,Data Scientist - IS Clinical Research,"$152,580 /yr (est.)",4.0,"Keck Medical Center of USC
+4.0","Los Angeles, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,152580.0,"Keck Medical Center of USC
+"
+170,Data Science Graduate Research Assistant,"$49,982 /yr (est.)",4.2,"University of Maryland
+4.2","College Park, MD",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,49982.0,"University of Maryland
+"
+171,Data Scientist,"$107,414 /yr (est.)",4.1,"Pfizer
+4.1","Groton, CT",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,107414.0,"Pfizer
+"
+172,Data Scientist,"$147,500 /yr (est.)",3.7,"Keystone Strategy
+3.7","Boston, MA",-1,51 to 200 Employees,-1,-1,-1,-1,$25 to $100 million (USD),-1,0,147500.0,"Keystone Strategy
+"
+173,Associate Data Scientist,"$88,640 /yr (est.)",4.0,"SimBioSys
+4.0","Chicago, IL",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,88640.0,"SimBioSys
+"
+175,Data Scientist 3,"$105,602 /yr (est.)",3.9,"Choice Hotels
+3.9","Rockville, MD",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,105602.0,"Choice Hotels
+"
+176,"Senior Data Scientist, Analytics","$175,000 /yr (est.)",3.9,"Discord
+3.9","San Francisco, CA",-1,501 to 1000 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,175000.0,"Discord
+"
+177,Health Data Scientist (Remote),"$86,926 /yr (est.)",3.8,"US News & World Report ,L.P.
+3.8","Washington, DC",-1,201 to 500 Employees,-1,Company - Private,-1,Media & Communication,-1,-1,0,86926.0,"US News & World Report ,L.P.
+"
+178,Junior Data Scientist,"$57,500 /yr (est.)",4.1,"Augray
+4.1","Brookfield, WI",-1,51 to 200 Employees,2014,-1,-1,-1,-1,-1,0,57500.0,"Augray
+"
+179,Forensic Data Science Associate - Summer/Fall 2023 (National),"$61,144 /yr (est.)",3.8,"BDO
+3.8","Washington, DC",-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,61144.0,"BDO
+"
+180,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+181,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+184,Data Scientist,$65.71 /hr (est.),-1.0,Biometric Health,"Jackson, MS",-1,Unknown,-1,-1,-1,-1,-1,-1,1,65.71,Biometric Heal
+185,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+186,Entry level Data Science Engineer-333338,"$62,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Marysville, MI",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,62500.0,"I28 Technologies
+"
+187,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+188,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+191,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+193,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+195,"Data Scientist, CV/NLP","$129,500 /yr (est.)",3.7,"Ancestry
+3.7",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,129500.0,"Ancestry
+"
+196,Data Scientist,"$101,043 /yr (est.)",4.2,"Harmonia Holdings Group, LLC
+4.2","McLean, VA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101043.0,"Harmonia Holdings Group, LLC
+"
+197,Quantitative Researcher,"$200,000 /yr (est.)",3.9,"Belvedere Trading
+3.9","New York, NY",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,200000.0,"Belvedere Trading
+"
+198,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+199,Data Scientist,"$91,000 /yr (est.)",3.8,"Premier Inc.
+3.8",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,91000.0,"Premier Inc.
+"
+200,"2023 Launchpad: Corporate Functions, FinTech & Data Science, and Market Makers","$88,925 /yr (est.)",4.0,"Bank of America
+4.0","Charlotte, NC",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88925.0,"Bank of America
+"
+201,Data Scientist,"$90,000 /yr (est.)",4.0,"Copart
+4.0","Dallas, TX",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,90000.0,"Copart
+"
+202,Data Scientist - All Levels,"$73,990 /yr (est.)",4.5,"Interclypse Inc
+4.5","Annapolis Junction, MD",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,73990.0,"Interclypse Inc
+"
+203,"Data and Evaluation Scientist, Health Equity","$71,210 /yr (est.)",3.7,"Nemours
+3.7","Jacksonville, FL",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,71210.0,"Nemours
+"
+204,Data Scientist,"$88,300 /yr (est.)",3.8,"Aptiv
+3.8","Troy, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88300.0,"Aptiv
+"
+205,Data Scientist,"$237,000 /yr (est.)",4.1,"InMarket
+4.1","Austin, TX",-1,201 to 500 Employees,-1,Company - Private,-1,Media & Communication,-1,-1,0,237000.0,"InMarket
+"
+206,Data Scientist,"$97,931 /yr (est.)",4.2,"Radiance Technologies Inc.
+4.2","Beavercreek, OH",-1,501 to 1000 Employees,-1,Company - Private,-1,-1,-1,-1,0,97931.0,"Radiance Technologies Inc.
+"
+207,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+208,Decision Scientist,"$101,835 /yr (est.)",4.9,"KUNGFU.AI
+4.9","Austin, TX",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,101835.0,"KUNGFU.AI
+"
+210,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+211,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+214,Data Scientist,$65.71 /hr (est.),-1.0,Biometric Health,"Jackson, MS",-1,Unknown,-1,-1,-1,-1,-1,-1,1,65.71,Biometric Heal
+215,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+216,Entry level Data Science Engineer-333338,"$62,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Marysville, MI",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,62500.0,"I28 Technologies
+"
+217,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+218,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+221,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+223,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+225,"Data Scientist, CV/NLP","$129,500 /yr (est.)",3.7,"Ancestry
+3.7",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,129500.0,"Ancestry
+"
+226,Data Scientist,"$101,043 /yr (est.)",4.2,"Harmonia Holdings Group, LLC
+4.2","McLean, VA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101043.0,"Harmonia Holdings Group, LLC
+"
+227,Quantitative Researcher,"$200,000 /yr (est.)",3.9,"Belvedere Trading
+3.9","New York, NY",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,200000.0,"Belvedere Trading
+"
+228,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+229,Data Scientist,"$91,000 /yr (est.)",3.8,"Premier Inc.
+3.8",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,91000.0,"Premier Inc.
+"
+230,"2023 Launchpad: Corporate Functions, FinTech & Data Science, and Market Makers","$88,925 /yr (est.)",4.0,"Bank of America
+4.0","Charlotte, NC",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88925.0,"Bank of America
+"
+231,Data Scientist,"$90,000 /yr (est.)",4.0,"Copart
+4.0","Dallas, TX",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,90000.0,"Copart
+"
+232,Data Scientist - All Levels,"$73,990 /yr (est.)",4.5,"Interclypse Inc
+4.5","Annapolis Junction, MD",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,73990.0,"Interclypse Inc
+"
+233,"Data and Evaluation Scientist, Health Equity","$71,210 /yr (est.)",3.7,"Nemours
+3.7","Jacksonville, FL",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,71210.0,"Nemours
+"
+234,Data Scientist,"$88,300 /yr (est.)",3.8,"Aptiv
+3.8","Troy, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88300.0,"Aptiv
+"
+235,Data Scientist,"$237,000 /yr (est.)",4.1,"InMarket
+4.1","Austin, TX",-1,201 to 500 Employees,-1,Company - Private,-1,Media & Communication,-1,-1,0,237000.0,"InMarket
+"
+236,Data Scientist,"$97,931 /yr (est.)",4.2,"Radiance Technologies Inc.
+4.2","Beavercreek, OH",-1,501 to 1000 Employees,-1,Company - Private,-1,-1,-1,-1,0,97931.0,"Radiance Technologies Inc.
+"
+237,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+238,Decision Scientist,"$101,835 /yr (est.)",4.9,"KUNGFU.AI
+4.9","Austin, TX",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,101835.0,"KUNGFU.AI
+"
+240,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+241,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+244,Data Scientist,$65.71 /hr (est.),-1.0,Biometric Health,"Jackson, MS",-1,Unknown,-1,-1,-1,-1,-1,-1,1,65.71,Biometric Heal
+245,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+246,Entry level Data Science Engineer-333338,"$62,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Marysville, MI",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,62500.0,"I28 Technologies
+"
+247,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+248,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+251,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+253,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+255,"Data Scientist, CV/NLP","$129,500 /yr (est.)",3.7,"Ancestry
+3.7",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,129500.0,"Ancestry
+"
+256,Data Scientist,"$101,043 /yr (est.)",4.2,"Harmonia Holdings Group, LLC
+4.2","McLean, VA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101043.0,"Harmonia Holdings Group, LLC
+"
+257,Quantitative Researcher,"$200,000 /yr (est.)",3.9,"Belvedere Trading
+3.9","New York, NY",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,200000.0,"Belvedere Trading
+"
+258,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+259,Data Scientist,"$91,000 /yr (est.)",3.8,"Premier Inc.
+3.8",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,91000.0,"Premier Inc.
+"
+260,"2023 Launchpad: Corporate Functions, FinTech & Data Science, and Market Makers","$88,925 /yr (est.)",4.0,"Bank of America
+4.0","Charlotte, NC",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88925.0,"Bank of America
+"
+261,Data Scientist,"$90,000 /yr (est.)",4.0,"Copart
+4.0","Dallas, TX",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,90000.0,"Copart
+"
+262,Data Scientist - All Levels,"$73,990 /yr (est.)",4.5,"Interclypse Inc
+4.5","Annapolis Junction, MD",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,73990.0,"Interclypse Inc
+"
+263,"Data and Evaluation Scientist, Health Equity","$71,210 /yr (est.)",3.7,"Nemours
+3.7","Jacksonville, FL",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,71210.0,"Nemours
+"
+264,Data Scientist,"$88,300 /yr (est.)",3.8,"Aptiv
+3.8","Troy, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88300.0,"Aptiv
+"
+265,Data Scientist,"$237,000 /yr (est.)",4.1,"InMarket
+4.1","Austin, TX",-1,201 to 500 Employees,-1,Company - Private,-1,Media & Communication,-1,-1,0,237000.0,"InMarket
+"
+266,Data Scientist,"$97,931 /yr (est.)",4.2,"Radiance Technologies Inc.
+4.2","Beavercreek, OH",-1,501 to 1000 Employees,-1,Company - Private,-1,-1,-1,-1,0,97931.0,"Radiance Technologies Inc.
+"
+267,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+268,Decision Scientist,"$101,835 /yr (est.)",4.9,"KUNGFU.AI
+4.9","Austin, TX",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,101835.0,"KUNGFU.AI
+"
+270,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+271,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+274,Data Scientist,$65.71 /hr (est.),-1.0,Biometric Health,"Jackson, MS",-1,Unknown,-1,-1,-1,-1,-1,-1,1,65.71,Biometric Heal
+275,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+276,Entry level Data Science Engineer-333338,"$62,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Marysville, MI",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,62500.0,"I28 Technologies
+"
+277,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+278,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+281,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+283,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+285,"Data Scientist, CV/NLP","$129,500 /yr (est.)",3.7,"Ancestry
+3.7",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,129500.0,"Ancestry
+"
+286,Data Scientist,"$101,043 /yr (est.)",4.2,"Harmonia Holdings Group, LLC
+4.2","McLean, VA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101043.0,"Harmonia Holdings Group, LLC
+"
+287,Quantitative Researcher,"$200,000 /yr (est.)",3.9,"Belvedere Trading
+3.9","New York, NY",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,200000.0,"Belvedere Trading
+"
+288,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+289,Data Scientist,"$91,000 /yr (est.)",3.8,"Premier Inc.
+3.8",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,91000.0,"Premier Inc.
+"
+290,"2023 Launchpad: Corporate Functions, FinTech & Data Science, and Market Makers","$88,925 /yr (est.)",4.0,"Bank of America
+4.0","Charlotte, NC",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88925.0,"Bank of America
+"
+291,Data Scientist,"$90,000 /yr (est.)",4.0,"Copart
+4.0","Dallas, TX",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,90000.0,"Copart
+"
+292,Data Scientist - All Levels,"$73,990 /yr (est.)",4.5,"Interclypse Inc
+4.5","Annapolis Junction, MD",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,73990.0,"Interclypse Inc
+"
+293,"Data and Evaluation Scientist, Health Equity","$71,210 /yr (est.)",3.7,"Nemours
+3.7","Jacksonville, FL",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,71210.0,"Nemours
+"
+294,Data Scientist,"$88,300 /yr (est.)",3.8,"Aptiv
+3.8","Troy, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88300.0,"Aptiv
+"
+295,Data Scientist,"$237,000 /yr (est.)",4.1,"InMarket
+4.1","Austin, TX",-1,201 to 500 Employees,-1,Company - Private,-1,Media & Communication,-1,-1,0,237000.0,"InMarket
+"
+296,Data Scientist,"$97,931 /yr (est.)",4.2,"Radiance Technologies Inc.
+4.2","Beavercreek, OH",-1,501 to 1000 Employees,-1,Company - Private,-1,-1,-1,-1,0,97931.0,"Radiance Technologies Inc.
+"
+297,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+298,Decision Scientist,"$101,835 /yr (est.)",4.9,"KUNGFU.AI
+4.9","Austin, TX",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,101835.0,"KUNGFU.AI
+"
+300,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+301,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+304,Data Scientist,$65.71 /hr (est.),-1.0,Biometric Health,,-1,Unknown,-1,-1,-1,-1,-1,-1,1,65.71,Biometric Heal
+305,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+306,Entry level Data Science Engineer-333338,"$62,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Marysville, MI",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,62500.0,"I28 Technologies
+"
+307,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+308,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+311,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+313,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+315,"Data Scientist, CV/NLP","$129,500 /yr (est.)",3.7,"Ancestry
+3.7",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,129500.0,"Ancestry
+"
+316,Data Scientist,"$101,043 /yr (est.)",4.2,"Harmonia Holdings Group, LLC
+4.2","McLean, VA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101043.0,"Harmonia Holdings Group, LLC
+"
+317,Quantitative Researcher,"$200,000 /yr (est.)",3.9,"Belvedere Trading
+3.9","New York, NY",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,200000.0,"Belvedere Trading
+"
+318,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+319,Data Scientist,"$91,000 /yr (est.)",3.8,"Premier Inc.
+3.8",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,91000.0,"Premier Inc.
+"
+320,"2023 Launchpad: Corporate Functions, FinTech & Data Science, and Market Makers","$88,925 /yr (est.)",4.0,"Bank of America
+4.0","Charlotte, NC",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88925.0,"Bank of America
+"
+321,Data Scientist,"$90,000 /yr (est.)",4.0,"Copart
+4.0","Dallas, TX",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,90000.0,"Copart
+"
+322,Data Scientist - All Levels,"$73,990 /yr (est.)",4.5,"Interclypse Inc
+4.5","Annapolis Junction, MD",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,73990.0,"Interclypse Inc
+"
+323,"Data and Evaluation Scientist, Health Equity","$71,210 /yr (est.)",3.7,"Nemours
+3.7","Jacksonville, FL",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,71210.0,"Nemours
+"
+324,Data Scientist,"$88,300 /yr (est.)",3.8,"Aptiv
+3.8","Troy, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88300.0,"Aptiv
+"
+325,Data Scientist,"$237,000 /yr (est.)",4.1,"InMarket
+4.1","Austin, TX",-1,201 to 500 Employees,-1,Company - Private,-1,Media & Communication,-1,-1,0,237000.0,"InMarket
+"
+326,Data Scientist,"$97,931 /yr (est.)",4.2,"Radiance Technologies Inc.
+4.2","Beavercreek, OH",-1,501 to 1000 Employees,-1,Company - Private,-1,-1,-1,-1,0,97931.0,"Radiance Technologies Inc.
+"
+327,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+328,Decision Scientist,"$101,835 /yr (est.)",4.9,"KUNGFU.AI
+4.9","Austin, TX",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,101835.0,"KUNGFU.AI
+"
+330,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+331,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+334,Data Scientist,$65.71 /hr (est.),-1.0,Biometric Health,"Jackson, MS",-1,Unknown,-1,-1,-1,-1,-1,-1,1,65.71,Biometric Heal
+335,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+336,Entry level Data Science Engineer-333338,"$62,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Marysville, MI",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,62500.0,"I28 Technologies
+"
+337,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+338,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+341,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+343,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+345,"Data Scientist, CV/NLP","$129,500 /yr (est.)",3.7,"Ancestry
+3.7",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,129500.0,"Ancestry
+"
+346,Data Scientist,"$101,043 /yr (est.)",4.2,"Harmonia Holdings Group, LLC
+4.2","McLean, VA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101043.0,"Harmonia Holdings Group, LLC
+"
+347,Quantitative Researcher,"$200,000 /yr (est.)",3.9,"Belvedere Trading
+3.9","New York, NY",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,200000.0,"Belvedere Trading
+"
+348,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+349,Data Scientist,"$91,000 /yr (est.)",3.8,"Premier Inc.
+3.8",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,91000.0,"Premier Inc.
+"
+350,"2023 Launchpad: Corporate Functions, FinTech & Data Science, and Market Makers","$88,925 /yr (est.)",4.0,"Bank of America
+4.0","Charlotte, NC",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88925.0,"Bank of America
+"
+351,Data Scientist,"$90,000 /yr (est.)",4.0,"Copart
+4.0","Dallas, TX",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,90000.0,"Copart
+"
+352,Data Scientist - All Levels,"$73,990 /yr (est.)",4.5,"Interclypse Inc
+4.5","Annapolis Junction, MD",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,73990.0,"Interclypse Inc
+"
+353,"Data and Evaluation Scientist, Health Equity","$71,210 /yr (est.)",3.7,"Nemours
+3.7","Jacksonville, FL",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,71210.0,"Nemours
+"
+354,Data Scientist,"$88,300 /yr (est.)",3.8,"Aptiv
+3.8","Troy, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88300.0,"Aptiv
+"
+355,Data Scientist,"$237,000 /yr (est.)",4.1,"InMarket
+4.1","Austin, TX",-1,201 to 500 Employees,-1,Company - Private,-1,Media & Communication,-1,-1,0,237000.0,"InMarket
+"
+356,Data Scientist,"$97,931 /yr (est.)",4.2,"Radiance Technologies Inc.
+4.2","Beavercreek, OH",-1,501 to 1000 Employees,-1,Company - Private,-1,-1,-1,-1,0,97931.0,"Radiance Technologies Inc.
+"
+357,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+358,Decision Scientist,"$101,835 /yr (est.)",4.9,"KUNGFU.AI
+4.9","Austin, TX",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,101835.0,"KUNGFU.AI
+"
+360,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+361,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+364,Data Scientist,$65.71 /hr (est.),-1.0,Biometric Health,,-1,Unknown,-1,-1,-1,-1,-1,-1,1,65.71,Biometric Heal
+365,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+366,Entry level Data Science Engineer-333338,"$62,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Marysville, MI",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,62500.0,"I28 Technologies
+"
+367,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+368,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+371,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+373,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+375,"Data Scientist, CV/NLP","$129,500 /yr (est.)",3.7,"Ancestry
+3.7",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,129500.0,"Ancestry
+"
+376,Data Scientist,"$101,043 /yr (est.)",4.2,"Harmonia Holdings Group, LLC
+4.2","McLean, VA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101043.0,"Harmonia Holdings Group, LLC
+"
+377,Quantitative Researcher,"$200,000 /yr (est.)",3.9,"Belvedere Trading
+3.9","New York, NY",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,200000.0,"Belvedere Trading
+"
+378,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+379,Data Scientist,"$91,000 /yr (est.)",3.8,"Premier Inc.
+3.8",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,91000.0,"Premier Inc.
+"
+380,"2023 Launchpad: Corporate Functions, FinTech & Data Science, and Market Makers","$88,925 /yr (est.)",4.0,"Bank of America
+4.0","Charlotte, NC",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88925.0,"Bank of America
+"
+381,Data Scientist,"$90,000 /yr (est.)",4.0,"Copart
+4.0","Dallas, TX",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,90000.0,"Copart
+"
+382,Data Scientist - All Levels,"$73,990 /yr (est.)",4.5,"Interclypse Inc
+4.5","Annapolis Junction, MD",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,73990.0,"Interclypse Inc
+"
+383,"Data and Evaluation Scientist, Health Equity","$71,210 /yr (est.)",3.7,"Nemours
+3.7","Jacksonville, FL",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,71210.0,"Nemours
+"
+384,Data Scientist,"$88,300 /yr (est.)",3.8,"Aptiv
+3.8","Troy, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,88300.0,"Aptiv
+"
+385,Data Scientist,"$237,000 /yr (est.)",4.1,"InMarket
+4.1","Austin, TX",-1,201 to 500 Employees,-1,Company - Private,-1,Media & Communication,-1,-1,0,237000.0,"InMarket
+"
+386,Data Scientist,"$97,931 /yr (est.)",4.2,"Radiance Technologies Inc.
+4.2","Beavercreek, OH",-1,501 to 1000 Employees,-1,Company - Private,-1,-1,-1,-1,0,97931.0,"Radiance Technologies Inc.
+"
+387,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+388,Decision Scientist,"$101,835 /yr (est.)",4.9,"KUNGFU.AI
+4.9","Austin, TX",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,101835.0,"KUNGFU.AI
+"
+390,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+391,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+392,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+394,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+396,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+397,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+398,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+399,"Machine Learning Data Scientist, Mid","$114,450 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Albuquerque, NM",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,114450.0,"Booz Allen Hamilton
+"
+401,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+402,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+403,Jr. Data Scientist,"$98,000 /yr (est.)",4.8,"WhirlWind Technologies, LLC
+4.8",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,98000.0,"WhirlWind Technologies, LLC
+"
+404,Data Scientist,"$101,937 /yr (est.)",2.9,"CyberData Technologies
+2.9","Herndon, VA",-1,51 to 200 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101937.0,"CyberData Technologies
+"
+406,Data Scientist,$65.71 /hr (est.),-1.0,Biometric Health,"Jackson, MS",-1,Unknown,-1,-1,-1,-1,-1,-1,1,65.71,Biometric Heal
+407,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+408,Data Scientist,"$95,536 /yr (est.)",4.0,"Steelcase
+4.0","Grand Rapids, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,95536.0,"Steelcase
+"
+409,Data Scientist I,"$113,021 /yr (est.)",3.2,"MAPFRE
+3.2","Webster, MA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,113021.0,"MAPFRE
+"
+410,Analyst - Junior Data Scientist,"$87,500 /yr (est.)",3.9,"YES Communities
+3.9","Greenwood Village, CO",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,87500.0,"YES Communities
+"
+411,Data Science Co-Op,"$100,657 /yr (est.)",4.2,"Bayer
+4.2","Chesterfield, MO",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,100657.0,"Bayer
+"
+412,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+413,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+415,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+417,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+418,Data Scientist,"$237,000 /yr (est.)",4.1,"InMarket
+4.1","Austin, TX",-1,201 to 500 Employees,-1,Company - Private,-1,Media & Communication,-1,-1,0,237000.0,"InMarket
+"
+419,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+420,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+421,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+422,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+424,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+425,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+426,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+427,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+428,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+429,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+430,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+431,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+432,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+434,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+435,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+436,Data Scientist,"$108,236 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Arlington, VA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,108236.0,"Booz Allen Hamilton
+"
+438,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+439,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+440,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+441,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+442,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+445,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+446,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+447,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+448,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+449,Data Scientist I,"$93,250 /yr (est.)",3.8,"New York Power Authority
+3.8","White Plains, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,93250.0,"New York Power Authority
+"
+450,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+451,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+452,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+454,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+455,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+456,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+457,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+458,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+459,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+460,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+461,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+462,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+464,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+465,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+466,Data Scientist,"$108,236 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Arlington, VA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,108236.0,"Booz Allen Hamilton
+"
+468,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+469,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+470,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+471,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+472,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+475,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+476,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+477,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+478,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+479,Data Scientist I,"$93,250 /yr (est.)",3.8,"New York Power Authority
+3.8","White Plains, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,93250.0,"New York Power Authority
+"
+480,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+481,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+482,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+484,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+485,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+486,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+487,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+488,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+489,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+490,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+491,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+492,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+494,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+495,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+496,Data Scientist,"$108,236 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Arlington, VA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,108236.0,"Booz Allen Hamilton
+"
+498,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+499,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+500,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+501,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+502,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+505,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+506,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+507,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+508,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+509,Data Scientist I,"$93,250 /yr (est.)",3.8,"New York Power Authority
+3.8","White Plains, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,93250.0,"New York Power Authority
+"
+510,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+511,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+512,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+514,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+515,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+516,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+517,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+518,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+519,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+520,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+521,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+522,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+524,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+525,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+526,Data Scientist,"$108,236 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Arlington, VA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,108236.0,"Booz Allen Hamilton
+"
+528,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+529,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+530,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+531,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+532,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+535,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+536,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+537,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+538,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+539,Data Scientist I,"$93,250 /yr (est.)",3.8,"New York Power Authority
+3.8","White Plains, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,93250.0,"New York Power Authority
+"
+540,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+541,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+542,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+544,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+545,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+546,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+547,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+548,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+549,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+550,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+551,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+552,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+554,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+555,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+556,Data Scientist,"$108,236 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Arlington, VA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,108236.0,"Booz Allen Hamilton
+"
+558,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+559,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+560,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+561,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+562,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+565,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+566,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+567,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+568,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+569,Data Scientist I,"$93,250 /yr (est.)",3.8,"New York Power Authority
+3.8","White Plains, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,93250.0,"New York Power Authority
+"
+570,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+571,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+572,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+574,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+575,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+576,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+577,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+578,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+579,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+580,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+581,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+582,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+584,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+585,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+586,Data Scientist,"$108,236 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Arlington, VA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,108236.0,"Booz Allen Hamilton
+"
+588,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+589,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+590,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+591,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+592,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+595,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+596,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+597,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+598,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+599,Data Scientist I,"$93,250 /yr (est.)",3.8,"New York Power Authority
+3.8","White Plains, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,93250.0,"New York Power Authority
+"
+600,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+601,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+602,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+604,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+605,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+606,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+607,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+608,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+609,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+610,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+611,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+612,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+614,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+615,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+616,Data Scientist,"$108,236 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Arlington, VA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,108236.0,"Booz Allen Hamilton
+"
+618,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+619,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+620,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+621,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+622,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+625,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+626,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+627,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+628,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+629,Data Scientist I,"$93,250 /yr (est.)",3.8,"New York Power Authority
+3.8","White Plains, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,93250.0,"New York Power Authority
+"
+630,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+631,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+632,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+634,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+635,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+636,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+637,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+638,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+639,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+640,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+641,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+642,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+644,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+645,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+646,Data Scientist,"$108,236 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Arlington, VA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,108236.0,"Booz Allen Hamilton
+"
+648,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+649,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+650,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+651,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+652,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+655,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+656,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+657,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+658,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+659,Data Scientist I,"$93,250 /yr (est.)",3.8,"New York Power Authority
+3.8","White Plains, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,93250.0,"New York Power Authority
+"
+660,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+661,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+662,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+664,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+665,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+666,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+667,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+668,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+669,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+670,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+671,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+672,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+674,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+675,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+676,Data Scientist,"$108,236 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Arlington, VA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,108236.0,"Booz Allen Hamilton
+"
+678,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+679,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+680,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+681,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+682,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+685,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+686,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+687,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+688,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+689,Data Scientist I,"$93,250 /yr (est.)",3.8,"New York Power Authority
+3.8","White Plains, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,93250.0,"New York Power Authority
+"
+690,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+691,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+692,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+694,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+695,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+696,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+697,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+698,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+699,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+700,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+701,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+702,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+704,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+705,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+706,Data Scientist,"$108,236 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Arlington, VA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,108236.0,"Booz Allen Hamilton
+"
+708,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+709,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+710,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+711,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+712,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+715,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+716,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+717,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+718,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+719,Data Scientist I,"$93,250 /yr (est.)",3.8,"New York Power Authority
+3.8","White Plains, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,93250.0,"New York Power Authority
+"
+720,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+721,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+722,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+724,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+725,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+726,Remote Data Scientist.People Analytics,"$101,402 /yr (est.)",3.2,"ADT
+3.2","Boca Raton, FL",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,101402.0,"ADT
+"
+727,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+728,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+729,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+730,Entry Level Data Scientist - Machine Learning Algorithms - 333322,"$67,500 /yr (est.)",4.2,"I28 Technologies
+4.2","Wellston, OH",-1,1 to 50 Employees,-1,Company - Private,-1,-1,-1,-1,0,67500.0,"I28 Technologies
+"
+731,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+732,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+734,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+735,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+736,Data Scientist,"$108,236 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Arlington, VA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,108236.0,"Booz Allen Hamilton
+"
+738,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+739,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+740,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+741,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+742,Data Mining Consultant,$47.50 /hr (est.),3.4,"Archon Resources
+3.4",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,1,47.5,"Archon Resources
+"
+745,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+746,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+747,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+748,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+749,Data Scientist I,"$93,250 /yr (est.)",3.8,"New York Power Authority
+3.8","White Plains, NY",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,93250.0,"New York Power Authority
+"
+750,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+751,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+752,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+754,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+755,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+756,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+757,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+758,"Machine Learning Data Scientist, Mid","$114,450 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Albuquerque, NM",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,114450.0,"Booz Allen Hamilton
+"
+759,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+761,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+763,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+764,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+765,Data Scientist,$80.00 /hr (est.),4.3,"Apolis
+4.3",Remote,-1,501 to 1000 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,1,80.0,"Apolis
+"
+766,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+767,Data Scientist - Entry Level,"$121,209 /yr (est.)",4.4,"Lawrence Livermore National Laboratory
+4.4","Livermore, CA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,121209.0,"Lawrence Livermore National Laboratory
+"
+768,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+769,"Data Scientist or Statistician, Postdoc","$93,500 /yr (est.)",3.9,"UT Southwestern Medical Center
+3.9",Remote,-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,93500.0,"UT Southwestern Medical Center
+"
+770,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+772,Data Scientist,"$101,937 /yr (est.)",2.9,"CyberData Technologies
+2.9","Herndon, VA",-1,51 to 200 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101937.0,"CyberData Technologies
+"
+773,Data Scientist,"$95,536 /yr (est.)",4.0,"Steelcase
+4.0","Grand Rapids, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,95536.0,"Steelcase
+"
+774,Analyst - Junior Data Scientist,"$87,500 /yr (est.)",3.9,"YES Communities
+3.9","Greenwood Village, CO",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,87500.0,"YES Communities
+"
+775,Data Scientist,"$125,491 /yr (est.)",3.6,"National Security Agency
+3.6","Fort Meade, MD",-1,Unknown,-1,-1,-1,-1,-1,-1,0,125491.0,"National Security Agency
+"
+776,Jr. Data Scientist,"$98,000 /yr (est.)",4.8,"WhirlWind Technologies, LLC
+4.8",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,98000.0,"WhirlWind Technologies, LLC
+"
+777,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+779,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+780,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+781,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+782,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+783,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+784,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+785,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+786,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+787,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+789,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+790,Jr. Data Scientist,"$98,000 /yr (est.)",4.8,"WhirlWind Technologies, LLC
+4.8",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,98000.0,"WhirlWind Technologies, LLC
+"
+791,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+793,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+794,"Machine Learning Data Scientist, Mid","$114,450 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Albuquerque, NM",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,114450.0,"Booz Allen Hamilton
+"
+795,Intenships in Machine Learning Research,"$73,554 /yr (est.)",4.2,"AstraZeneca Pharmaceuticals Inc
+4.2","Gaithersburg, MD",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,73554.0,"AstraZeneca Pharmaceuticals Inc
+"
+796,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+797,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+798,Machine Learning Research Scientist,"$135,118 /yr (est.)",4.4,"Schrödinger
+4.4","New York, NY",-1,501 to 1000 Employees,-1,-1,-1,-1,-1,-1,0,135118.0,"Schrödinger
+"
+801,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+803,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+804,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+805,Jr. Data Scientist,"$78,285 /yr (est.)",3.1,"Primrose School Franchising Company
+3.1","Atlanta, GA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,78285.0,"Primrose School Franchising Company
+"
+806,Data Scientist,"$101,043 /yr (est.)",4.2,"Harmonia Holdings Group, LLC
+4.2","McLean, VA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101043.0,"Harmonia Holdings Group, LLC
+"
+807,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+808,Analyst - Junior Data Scientist,"$87,500 /yr (est.)",3.9,"YES Communities
+3.9","Greenwood Village, CO",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,87500.0,"YES Communities
+"
+809,Data Scientist,"$101,937 /yr (est.)",2.9,"CyberData Technologies
+2.9","Herndon, VA",-1,51 to 200 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101937.0,"CyberData Technologies
+"
+810,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+811,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+812,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+813,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+814,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+817,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+818,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+819,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+820,Jr. Data Scientist,"$98,000 /yr (est.)",4.8,"WhirlWind Technologies, LLC
+4.8",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,98000.0,"WhirlWind Technologies, LLC
+"
+821,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+822,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+823,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+824,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+825,"Machine Learning Data Scientist, Mid","$114,450 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Albuquerque, NM",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,114450.0,"Booz Allen Hamilton
+"
+826,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+829,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+831,"Data Scientist, CV/NLP","$129,500 /yr (est.)",3.7,"Ancestry
+3.7",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,129500.0,"Ancestry
+"
+833,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+834,Jr. Data Scientist,"$78,285 /yr (est.)",3.1,"Primrose School Franchising Company
+3.1","Atlanta, GA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,78285.0,"Primrose School Franchising Company
+"
+835,Data Scientist II (JR14367),"$137,708 /yr (est.)",3.6,"Teladoc Health
+3.6",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,137708.0,"Teladoc Health
+"
+836,Data Scientist,"$101,937 /yr (est.)",2.9,"CyberData Technologies
+2.9","Herndon, VA",-1,51 to 200 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101937.0,"CyberData Technologies
+"
+838,Data Scientist,"$135,093 /yr (est.)",-1.0,Snowrelic INC,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,135093.0,Snowrelic I
+839,Data Scientist,"$95,536 /yr (est.)",4.0,"Steelcase
+4.0","Grand Rapids, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,95536.0,"Steelcase
+"
+840,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+841,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+842,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+843,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+844,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+847,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+848,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+849,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+850,Jr. Data Scientist,"$98,000 /yr (est.)",4.8,"WhirlWind Technologies, LLC
+4.8",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,98000.0,"WhirlWind Technologies, LLC
+"
+851,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+852,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+853,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+854,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+855,"Machine Learning Data Scientist, Mid","$114,450 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Albuquerque, NM",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,114450.0,"Booz Allen Hamilton
+"
+856,Data Scientist,"$101,603 /yr (est.)",3.5,"Activision
+3.5","Santa Monica, CA",-1,1001 to 5000 Employees,-1,-1,-1,Media & Communication,-1,-1,0,101603.0,"Activision
+"
+859,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+861,"Data Scientist, CV/NLP","$129,500 /yr (est.)",3.7,"Ancestry
+3.7",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,129500.0,"Ancestry
+"
+863,Data Scientist II,"$137,900 /yr (est.)",3.9,"Liberty Mutual Insurance
+3.9",Remote,-1,10000+ Employees,-1,Company - Private,-1,-1,-1,-1,0,137900.0,"Liberty Mutual Insurance
+"
+864,Jr. Data Scientist,"$78,285 /yr (est.)",3.1,"Primrose School Franchising Company
+3.1","Atlanta, GA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,78285.0,"Primrose School Franchising Company
+"
+865,Data Scientist II (JR14367),"$137,708 /yr (est.)",3.6,"Teladoc Health
+3.6",Remote,-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,137708.0,"Teladoc Health
+"
+866,Data Scientist,"$101,937 /yr (est.)",2.9,"CyberData Technologies
+2.9","Herndon, VA",-1,51 to 200 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101937.0,"CyberData Technologies
+"
+868,Data Scientist,"$135,093 /yr (est.)",-1.0,Snowrelic INC,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,135093.0,Snowrelic I
+869,Data Scientist,"$95,536 /yr (est.)",4.0,"Steelcase
+4.0","Grand Rapids, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,95536.0,"Steelcase
+"
+870,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+871,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+872,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+873,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+874,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+875,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+876,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+877,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+880,Jr. Data Scientist,"$98,000 /yr (est.)",4.8,"WhirlWind Technologies, LLC
+4.8",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,98000.0,"WhirlWind Technologies, LLC
+"
+881,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+882,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+883,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+884,"Machine Learning Data Scientist, Mid","$114,450 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Albuquerque, NM",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,114450.0,"Booz Allen Hamilton
+"
+885,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+886,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+887,Data Scientist,"$95,536 /yr (est.)",4.0,"Steelcase
+4.0","Grand Rapids, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,95536.0,"Steelcase
+"
+888,Jr. Data Scientist,"$78,285 /yr (est.)",3.1,"Primrose School Franchising Company
+3.1","Atlanta, GA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,78285.0,"Primrose School Franchising Company
+"
+889,Data Scientist,"$101,937 /yr (est.)",2.9,"CyberData Technologies
+2.9","Herndon, VA",-1,51 to 200 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101937.0,"CyberData Technologies
+"
+891,Machine Learning Research Scientist,"$135,118 /yr (est.)",4.4,"Schrödinger
+4.4","New York, NY",-1,501 to 1000 Employees,-1,-1,-1,-1,-1,-1,0,135118.0,"Schrödinger
+"
+892,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+893,Data Scientist I,"$113,021 /yr (est.)",3.2,"MAPFRE
+3.2","Webster, MA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,113021.0,"MAPFRE
+"
+894,Data Scientist,"$93,398 /yr (est.)",4.1,"US Centers for Medicare & Medicaid Services
+4.1","Wallops Island, VA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,93398.0,"US Centers for Medicare & Medicaid Services
+"
+895,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+896,Data Scientist - All Levels,"$73,990 /yr (est.)",4.5,"Interclypse Inc
+4.5","Annapolis Junction, MD",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,73990.0,"Interclypse Inc
+"
+897,Intenships in Machine Learning Research,"$73,554 /yr (est.)",4.2,"AstraZeneca Pharmaceuticals Inc
+4.2","Gaithersburg, MD",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,73554.0,"AstraZeneca Pharmaceuticals Inc
+"
+898,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+900,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+901,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+902,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+903,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+904,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+905,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+906,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+907,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+910,Jr. Data Scientist,"$98,000 /yr (est.)",4.8,"WhirlWind Technologies, LLC
+4.8",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,98000.0,"WhirlWind Technologies, LLC
+"
+911,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+912,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+913,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+914,"Machine Learning Data Scientist, Mid","$114,450 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Albuquerque, NM",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,114450.0,"Booz Allen Hamilton
+"
+915,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+916,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+917,Data Scientist,"$95,536 /yr (est.)",4.0,"Steelcase
+4.0","Grand Rapids, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,95536.0,"Steelcase
+"
+918,Jr. Data Scientist,"$78,285 /yr (est.)",3.1,"Primrose School Franchising Company
+3.1","Atlanta, GA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,78285.0,"Primrose School Franchising Company
+"
+919,Data Scientist,"$101,937 /yr (est.)",2.9,"CyberData Technologies
+2.9","Herndon, VA",-1,51 to 200 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101937.0,"CyberData Technologies
+"
+921,Machine Learning Research Scientist,"$135,118 /yr (est.)",4.4,"Schrödinger
+4.4","New York, NY",-1,501 to 1000 Employees,-1,-1,-1,-1,-1,-1,0,135118.0,"Schrödinger
+"
+922,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+923,Data Scientist I,"$113,021 /yr (est.)",3.2,"MAPFRE
+3.2","Webster, MA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,113021.0,"MAPFRE
+"
+924,Data Scientist,"$93,398 /yr (est.)",4.1,"US Centers for Medicare & Medicaid Services
+4.1","Wallops Island, VA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,93398.0,"US Centers for Medicare & Medicaid Services
+"
+925,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+926,Data Scientist - All Levels,"$73,990 /yr (est.)",4.5,"Interclypse Inc
+4.5","Annapolis Junction, MD",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,73990.0,"Interclypse Inc
+"
+927,Intenships in Machine Learning Research,"$73,554 /yr (est.)",4.2,"AstraZeneca Pharmaceuticals Inc
+4.2","Gaithersburg, MD",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,73554.0,"AstraZeneca Pharmaceuticals Inc
+"
+928,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+930,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+931,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+932,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+933,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+934,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+935,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+936,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+937,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+940,Jr. Data Scientist,"$98,000 /yr (est.)",4.8,"WhirlWind Technologies, LLC
+4.8",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,98000.0,"WhirlWind Technologies, LLC
+"
+941,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+942,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+943,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+944,"Machine Learning Data Scientist, Mid","$114,450 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Albuquerque, NM",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,114450.0,"Booz Allen Hamilton
+"
+945,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+946,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+947,Data Scientist,"$95,536 /yr (est.)",4.0,"Steelcase
+4.0","Grand Rapids, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,95536.0,"Steelcase
+"
+948,Jr. Data Scientist,"$78,285 /yr (est.)",3.1,"Primrose School Franchising Company
+3.1","Atlanta, GA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,78285.0,"Primrose School Franchising Company
+"
+949,Data Scientist,"$101,937 /yr (est.)",2.9,"CyberData Technologies
+2.9","Herndon, VA",-1,51 to 200 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101937.0,"CyberData Technologies
+"
+951,Machine Learning Research Scientist,"$135,118 /yr (est.)",4.4,"Schrödinger
+4.4","New York, NY",-1,501 to 1000 Employees,-1,-1,-1,-1,-1,-1,0,135118.0,"Schrödinger
+"
+952,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+953,Data Scientist I,"$113,021 /yr (est.)",3.2,"MAPFRE
+3.2","Webster, MA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,113021.0,"MAPFRE
+"
+954,Data Scientist,"$93,398 /yr (est.)",4.1,"US Centers for Medicare & Medicaid Services
+4.1","Wallops Island, VA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,93398.0,"US Centers for Medicare & Medicaid Services
+"
+955,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+956,Data Scientist - All Levels,"$73,990 /yr (est.)",4.5,"Interclypse Inc
+4.5","Annapolis Junction, MD",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,73990.0,"Interclypse Inc
+"
+957,Intenships in Machine Learning Research,"$73,554 /yr (est.)",4.2,"AstraZeneca Pharmaceuticals Inc
+4.2","Gaithersburg, MD",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,73554.0,"AstraZeneca Pharmaceuticals Inc
+"
+958,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+960,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+961,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+962,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+963,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+964,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+965,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+966,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+967,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
+970,Jr. Data Scientist,"$98,000 /yr (est.)",4.8,"WhirlWind Technologies, LLC
+4.8",Remote,-1,1 to 50 Employees,-1,-1,-1,-1,-1,-1,0,98000.0,"WhirlWind Technologies, LLC
+"
+971,Data & Applied Scientist,"$138,450 /yr (est.)",4.4,"Microsoft
+4.4","Redmond, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,138450.0,"Microsoft
+"
+972,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+973,"Data Scientist, University Graduate - 2023 Start (BS/MS)","$138,475 /yr (est.)",3.6,"TikTok
+3.6","Mountain View, CA",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,138475.0,"TikTok
+"
+974,"Machine Learning Data Scientist, Mid","$114,450 /yr (est.)",4.2,"Booz Allen Hamilton
+4.2","Albuquerque, NM",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,114450.0,"Booz Allen Hamilton
+"
+975,Jr. Data Scientist,"$87,185 /yr (est.)",3.8,"Alcon
+3.8","Fort Worth, TX",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,87185.0,"Alcon
+"
+976,Data Scientist,"$150,518 /yr (est.)",4.3,"Snowflake
+4.3","San Mateo, CA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,150518.0,"Snowflake
+"
+977,Data Scientist,"$95,536 /yr (est.)",4.0,"Steelcase
+4.0","Grand Rapids, MI",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,95536.0,"Steelcase
+"
+978,Jr. Data Scientist,"$78,285 /yr (est.)",3.1,"Primrose School Franchising Company
+3.1","Atlanta, GA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,78285.0,"Primrose School Franchising Company
+"
+979,Data Scientist,"$101,937 /yr (est.)",2.9,"CyberData Technologies
+2.9","Herndon, VA",-1,51 to 200 Employees,-1,Company - Private,-1,-1,$25 to $100 million (USD),-1,0,101937.0,"CyberData Technologies
+"
+981,Machine Learning Research Scientist,"$135,118 /yr (est.)",4.4,"Schrödinger
+4.4","New York, NY",-1,501 to 1000 Employees,-1,-1,-1,-1,-1,-1,0,135118.0,"Schrödinger
+"
+982,Jr. Data Scientist,"$72,500 /yr (est.)",-1.0,Net2Aspire,Remote,-1,Unknown,-1,-1,-1,-1,-1,-1,0,72500.0,Net2Aspi
+983,Data Scientist I,"$113,021 /yr (est.)",3.2,"MAPFRE
+3.2","Webster, MA",-1,1001 to 5000 Employees,-1,-1,-1,-1,-1,-1,0,113021.0,"MAPFRE
+"
+984,Data Scientist,"$93,398 /yr (est.)",4.1,"US Centers for Medicare & Medicaid Services
+4.1","Wallops Island, VA",-1,5001 to 10000 Employees,-1,-1,-1,-1,-1,-1,0,93398.0,"US Centers for Medicare & Medicaid Services
+"
+985,Jr. Data Scientist,$42.50 /hr (est.),-1.0,TheHive,Remote,-1,-1,-1,-1,-1,-1,-1,-1,1,42.5,TheHi
+986,Data Scientist - All Levels,"$73,990 /yr (est.)",4.5,"Interclypse Inc
+4.5","Annapolis Junction, MD",-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,73990.0,"Interclypse Inc
+"
+987,Intenships in Machine Learning Research,"$73,554 /yr (est.)",4.2,"AstraZeneca Pharmaceuticals Inc
+4.2","Gaithersburg, MD",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,73554.0,"AstraZeneca Pharmaceuticals Inc
+"
+988,Data Scientist co op (Spring/Summer 2023),$29.00 /hr (est.),4.2,"Johnson & Johnson
+4.2","Raritan, NJ",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,1,29.0,"Johnson & Johnson
+"
+990,Machine Learning Research Scientist - Natural Language Processing,"$180,900 /yr (est.)",4.3,"Toyota Research Institute
+4.3","Los Altos, CA",-1,201 to 500 Employees,-1,-1,-1,-1,-1,-1,0,180900.0,"Toyota Research Institute
+"
+991,Data Scientist (Level I - II),"$91,036 /yr (est.)",3.5,"BEN Group, Inc
+3.5","Provo, UT",-1,201 to 500 Employees,2014,Company - Private,Advertising & Public Relations,Media & Communication,$25 to $100 million (USD),-1,0,91036.0,"BEN Group, Inc
+"
+992,AI Residency Program (University Grad),"$112,281 /yr (est.)",4.1,"Meta
+4.1","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,112281.0,"Meta
+"
+993,"data scientist, Operational Excellence - GSC","$124,950 /yr (est.)",3.7,"Starbucks
+3.7","Seattle, WA",-1,10000+ Employees,-1,-1,-1,-1,-1,-1,0,124950.0,"Starbucks
+"
+994,Data Scientist,"$110,000 /yr (est.)",4.6,"Super Dispatch
+4.6",Remote,-1,51 to 200 Employees,-1,Company - Private,-1,-1,-1,-1,0,110000.0,"Super Dispatch
+"
+995,"Data Scientist, Machine Learning","$114,296 /yr (est.)",5.0,"Locus Robotics
+5.0","Wilmington, MA",-1,201 to 500 Employees,-1,Company - Private,-1,-1,-1,-1,0,114296.0,"Locus Robotics
+"
+996,Data Scientist / Machine Learning Engineer,"$130,867 /yr (est.)",4.6,"Databricks
+4.6","West, TX",-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,130867.0,"Databricks
+"
+997,Data Scientist - Virtual,"$96,225 /yr (est.)",4.2,"Vizient, Inc.
+4.2",Remote,-1,1001 to 5000 Employees,-1,Company - Private,-1,-1,-1,-1,0,96225.0,"Vizient, Inc.
+"
